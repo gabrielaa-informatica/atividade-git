@@ -1,2 +1,3 @@
 Produto: Teclado - R$ 120,00
 Produto: Mouse - R$ 60,00
+Produto: Monitor - R$ 850,00
